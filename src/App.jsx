@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, enim alias! Ullam eos neque, facilis iste dolores quos blanditiis distinctio perspiciatis, quisquam deleniti, pariatur quia aut ea. Quidem quasi laudantium veniam aperiam reiciendis voluptatum dicta, sequi at. Reprehenderit accusantium officia distinctio labore sunt, iure inventore earum incidunt nulla unde suscipit.</div>
       </header>
     </div>
   );
